@@ -1,3 +1,4 @@
 # 360-Arduino-Radar-System
 
-![image](projectImg.jpeg)
+![image](img1.jpg)
+![image](img2.jpg)
